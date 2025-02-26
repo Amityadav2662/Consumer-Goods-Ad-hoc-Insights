@@ -27,21 +27,31 @@ Questions Addressed:
 📊 Key Insights
 
 📌 36.33% increase in unique products from 2020 to 2021.
+
 📌 Retailers dominate sales, contributing over $1.2B in revenue.
+
 📌 Flipkart received the highest discount (30.83%), while Amazon had the lowest.
+
 📌 Pen Drives were the highest-selling products in the Networking & Storage category.
+
 📌 October 2021 had peak sales (32.2M), while March 2020 saw the lowest (767K).
+
 📌 Q1 2020 had the highest sales volume, while Q3 had the lowest contribution.
 
 🛠️ Technologies Used
-SQL (for querying and extracting insights)
-Power BI (for visualization)
-Excel (for additional data analysis)
+
+• SQL (for querying and extracting insights)
+
+• Power BI (for visualization)
+
+• Excel (for additional data analysis)
 
 🔗 Resources & Links
 
 📂 Project Code: https://github.com/Amityadav2662/Consumer-Goods-Ad-hoc-Insights/tree/main/Ad-Hoc%20SQL%20Codes
+
 📊 Presentation: https://github.com/Amityadav2662/Consumer-Goods-Ad-hoc-Insights/blob/main/Consumer%20Goods%20Insights.pdf
+
 🔗 LinkedIn: 
 
 📢 Let's Connect!
